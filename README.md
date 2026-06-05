@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge)](https://zhuiju.me)
 [![Resources](https://img.shields.io/badge/已收录-7_个资源-0f766e?style=for-the-badge)](resources/resources.json)
-[![Last Verified](https://img.shields.io/badge/最近验证-2026--06--06-f59e0b?style=for-the-badge)](reports/verifications.json)
+[![Daily Check](https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge)](https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml)
 
 [![Validate data](https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/validate-data.yml/badge.svg)](https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/validate-data.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -43,7 +43,11 @@
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-64748b?style=flat-square" alt="会员拼团"></a>
 </p>
 
-> 精选内容来自 [`resources/resources.json`](resources/resources.json)。评分为当前验证结果，不是永久结论。`推荐` 表示整体体验较好；`谨慎` 表示可用，但存在需要特别留意的风险。
+> 精选内容来自 [`resources/resources.json`](resources/resources.json)。状态由 GitHub Actions 每日自动检测：`🟢 可访问`、`🟡 访问受限`、`🔴 无法访问`、`⚪ 未检测`。检测结果仅代表 GitHub Actions 节点当时的网络情况。
+
+自动状态只判断主页是否响应，不替代人工的推荐、风险与体验评价。完整检测结果见 [`reports/availability.json`](reports/availability.json)。
+
+检测任务每天北京时间 09:00 左右运行；新增或修改资源后也会自动运行。你也可以在 [Check availability](https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml) 页面手动触发。
 
 ### 在线影视
 
@@ -57,7 +61,7 @@
       <th width="5%">净</th>
       <th width="5%">稳</th>
       <th width="8%">状&#8288;态</th>
-      <th width="15%">验&#8288;证</th>
+      <th width="15%">检&#8288;测</th>
     </tr>
   </thead>
   <tbody>
@@ -68,8 +72,8 @@
       <td align="center">4.5</td>
       <td align="center">4.0</td>
       <td align="center">4.8</td>
-      <td align="center">推&#8288;荐</td>
-      <td align="center">2026&#8209;06&#8209;06</td>
+      <td align="center"><!-- availability:cctv-tv -->⚪ 未&#8288;检测<!-- /availability:cctv-tv --></td>
+      <td align="center"><!-- availability-date:cctv-tv -->—<!-- /availability-date:cctv-tv --></td>
     </tr>
     <tr>
       <td><a href="https://www.1905.com/vod/">1905 电影网</a></td>
@@ -78,8 +82,8 @@
       <td align="center">4.2</td>
       <td align="center">3.5</td>
       <td align="center">4.5</td>
-      <td align="center">推&#8288;荐</td>
-      <td align="center">2026&#8209;06&#8209;06</td>
+      <td align="center"><!-- availability:1905-vod -->⚪ 未&#8288;检测<!-- /availability:1905-vod --></td>
+      <td align="center"><!-- availability-date:1905-vod -->—<!-- /availability-date:1905-vod --></td>
     </tr>
     <tr>
       <td><a href="https://archive.org/details/movies">Internet Archive Movies</a></td>
@@ -88,8 +92,8 @@
       <td align="center">3.0</td>
       <td align="center">4.8</td>
       <td align="center">4.6</td>
-      <td align="center">推&#8288;荐</td>
-      <td align="center">2026&#8209;06&#8209;06</td>
+      <td align="center"><!-- availability:internet-archive-movies -->⚪ 未&#8288;检测<!-- /availability:internet-archive-movies --></td>
+      <td align="center"><!-- availability-date:internet-archive-movies -->—<!-- /availability-date:internet-archive-movies --></td>
     </tr>
   </tbody>
 </table>
@@ -112,7 +116,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <th width="5%">净</th>
       <th width="5%">稳</th>
       <th width="8%">状&#8288;态</th>
-      <th width="15%">验&#8288;证</th>
+      <th width="15%">检&#8288;测</th>
     </tr>
   </thead>
   <tbody>
@@ -123,8 +127,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center">3.5</td>
       <td align="center">4.8</td>
       <td align="center">4.2</td>
-      <td align="center">推&#8288;荐</td>
-      <td align="center">2026&#8209;06&#8209;06</td>
+      <td align="center"><!-- availability:academic-torrents -->⚪ 未&#8288;检测<!-- /availability:academic-torrents --></td>
+      <td align="center"><!-- availability-date:academic-torrents -->—<!-- /availability-date:academic-torrents --></td>
     </tr>
   </tbody>
 </table>
@@ -143,7 +147,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <th width="5%">净</th>
       <th width="5%">稳</th>
       <th width="8%">状&#8288;态</th>
-      <th width="15%">验&#8288;证</th>
+      <th width="15%">检&#8288;测</th>
     </tr>
   </thead>
   <tbody>
@@ -154,8 +158,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center">3.2</td>
       <td align="center">2.8</td>
       <td align="center">4.5</td>
-      <td align="center">谨&#8288;慎</td>
-      <td align="center">2026&#8209;06&#8209;06</td>
+      <td align="center"><!-- availability:opensubtitles -->⚪ 未&#8288;检测<!-- /availability:opensubtitles --></td>
+      <td align="center"><!-- availability-date:opensubtitles -->—<!-- /availability-date:opensubtitles --></td>
     </tr>
   </tbody>
 </table>
@@ -172,7 +176,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <th width="5%">净</th>
       <th width="5%">稳</th>
       <th width="8%">状&#8288;态</th>
-      <th width="15%">验&#8288;证</th>
+      <th width="15%">检&#8288;测</th>
     </tr>
   </thead>
   <tbody>
@@ -183,8 +187,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center">4.0</td>
       <td align="center">5.0</td>
       <td align="center">4.8</td>
-      <td align="center">推&#8288;荐</td>
-      <td align="center">2026&#8209;06&#8209;06</td>
+      <td align="center"><!-- availability:kodi -->⚪ 未&#8288;检测<!-- /availability:kodi --></td>
+      <td align="center"><!-- availability-date:kodi -->—<!-- /availability-date:kodi --></td>
     </tr>
   </tbody>
 </table>
@@ -201,7 +205,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <th width="5%">净</th>
       <th width="5%">稳</th>
       <th width="8%">状&#8288;态</th>
-      <th width="15%">验&#8288;证</th>
+      <th width="15%">检&#8288;测</th>
     </tr>
   </thead>
   <tbody>
@@ -212,8 +216,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center">3.5</td>
       <td align="center">5.0</td>
       <td align="center">4.0</td>
-      <td align="center">谨&#8288;慎</td>
-      <td align="center">2026&#8209;06&#8209;06</td>
+      <td align="center"><!-- availability:iptv-org -->⚪ 未&#8288;检测<!-- /availability:iptv-org --></td>
+      <td align="center"><!-- availability-date:iptv-org -->—<!-- /availability-date:iptv-org --></td>
     </tr>
   </tbody>
 </table>

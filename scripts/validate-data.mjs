@@ -21,6 +21,7 @@ const statuses = new Set([
 ]);
 const risks = new Set(["low", "medium", "high", "unknown"]);
 const methods = new Set(["manual", "automated", "mixed"]);
+const availabilityStatuses = new Set(["reachable", "restricted", "unreachable", "unknown"]);
 const datePattern = /^\d{4}-\d{2}-\d{2}$/;
 const idPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const errors = [];
@@ -53,6 +54,7 @@ function checkScore(value, path) {
 
 const resourcesData = await readJson("resources/resources.json");
 const verificationsData = await readJson("reports/verifications.json");
+const availabilityData = await readJson("reports/availability.json");
 await readJson("reports/notices.json");
 
 if (resourcesData) {
@@ -61,11 +63,15 @@ if (resourcesData) {
 }
 
 const resourceIds = new Set();
+const featuredResourceIds = new Set();
 for (const [index, resource] of (resourcesData?.resources ?? []).entries()) {
   const path = `resources.resources[${index}]`;
   check(idPattern.test(resource.id ?? ""), `${path}.id: invalid or missing id`);
   check(!resourceIds.has(resource.id), `${path}.id: duplicate id "${resource.id}"`);
   resourceIds.add(resource.id);
+  if (resource.featured === true) {
+    featuredResourceIds.add(resource.id);
+  }
   check(typeof resource.name === "string" && resource.name.length > 0, `${path}.name: required`);
   check(typeof resource.url === "string" && resource.url.startsWith("https://"), `${path}.url: expected HTTPS URL`);
   check(categories.has(resource.category), `${path}.category: unknown category "${resource.category}"`);
@@ -102,6 +108,41 @@ for (const [index, record] of (verificationsData?.records ?? []).entries()) {
   }
 }
 
+if (availabilityData) {
+  check(
+    availabilityData.generated_at === null ||
+      (typeof availabilityData.generated_at === "string" &&
+        !Number.isNaN(Date.parse(availabilityData.generated_at))),
+    "availability.generated_at: expected ISO timestamp or null"
+  );
+  check(Array.isArray(availabilityData.results), "availability.results: expected an array");
+}
+
+const availabilityResourceIds = new Set();
+for (const [index, result] of (availabilityData?.results ?? []).entries()) {
+  const path = `availability.results[${index}]`;
+  check(resourceIds.has(result.resource_id), `${path}.resource_id: unknown resource "${result.resource_id}"`);
+  check(
+    !availabilityResourceIds.has(result.resource_id),
+    `${path}.resource_id: duplicate resource "${result.resource_id}"`
+  );
+  availabilityResourceIds.add(result.resource_id);
+  check(availabilityStatuses.has(result.status), `${path}.status: unknown availability status`);
+  check(
+    typeof result.checked_at === "string" && !Number.isNaN(Date.parse(result.checked_at)),
+    `${path}.checked_at: expected ISO timestamp`
+  );
+}
+
+if (availabilityData?.generated_at !== null) {
+  for (const resourceId of featuredResourceIds) {
+    check(
+      availabilityResourceIds.has(resourceId),
+      `availability.results: featured resource "${resourceId}" is missing`
+    );
+  }
+}
+
 if (errors.length > 0) {
   console.error(`Data validation failed with ${errors.length} error(s):`);
   for (const error of errors) {
@@ -110,7 +151,6 @@ if (errors.length > 0) {
   process.exitCode = 1;
 } else {
   console.log(
-    `Data validation passed: ${resourceIds.size} resources, ${verificationIds.size} verification records.`
+    `Data validation passed: ${resourceIds.size} resources, ${verificationIds.size} verification records, ${availabilityResourceIds.size} availability results.`
   );
 }
-

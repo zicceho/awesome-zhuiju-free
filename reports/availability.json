@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "generated_at": null,
+  "checker": {
+    "environment": "not-run",
+    "timeout_ms": 15000,
+    "concurrency": 4,
+    "max_attempts": 2
+  },
+  "results": []
+}
