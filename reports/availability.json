@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T09:28:39.594Z",
+  "generated_at": "2026-06-19T09:32:33.125Z",
   "checker": {
-    "environment": "local",
+    "environment": "github-actions",
     "timeout_ms": 15000,
     "concurrency": 4,
     "max_attempts": 2,
@@ -12,22 +12,22 @@
     {
       "resource_id": "no-video",
       "url": "https://www.novipnoad.cc/",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 21413,
-      "checked_at": "2026-06-19T09:28:18.181Z",
-      "attempts": 2,
-      "error": "fetch failed"
+      "status": "restricted",
+      "http_status": 403,
+      "final_url": "https://www.novipnoad.cc/",
+      "response_ms": 349,
+      "checked_at": "2026-06-19T09:32:30.659Z",
+      "attempts": 1,
+      "error": null
     },
     {
       "resource_id": "gaze-red",
       "url": "https://gaze.red/",
-      "status": "reachable",
-      "http_status": 200,
+      "status": "restricted",
+      "http_status": 403,
       "final_url": "https://gaze.red/",
-      "response_ms": 1692,
-      "checked_at": "2026-06-19T09:28:18.299Z",
+      "response_ms": 409,
+      "checked_at": "2026-06-19T09:32:30.707Z",
       "attempts": 1,
       "error": null
     },
@@ -37,21 +37,21 @@
       "status": "reachable",
       "http_status": 200,
       "final_url": "https://www.sotvla.cc/",
-      "response_ms": 976,
-      "checked_at": "2026-06-19T09:28:18.301Z",
+      "response_ms": 364,
+      "checked_at": "2026-06-19T09:32:30.708Z",
       "attempts": 1,
       "error": null
     },
     {
       "resource_id": "xlys",
       "url": "https://xlys.me/",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 21290,
-      "checked_at": "2026-06-19T09:28:18.303Z",
-      "attempts": 2,
-      "error": "fetch failed"
+      "status": "reachable",
+      "http_status": 200,
+      "final_url": "https://v.xl01.eu.cc/",
+      "response_ms": 886,
+      "checked_at": "2026-06-19T09:32:30.709Z",
+      "attempts": 1,
+      "error": null
     },
     {
       "resource_id": "opensubtitles",
@@ -59,8 +59,8 @@
       "status": "restricted",
       "http_status": 403,
       "final_url": "https://www.opensubtitles.com/zh-CN",
-      "response_ms": 3655,
-      "checked_at": "2026-06-19T09:28:19.278Z",
+      "response_ms": 149,
+      "checked_at": "2026-06-19T09:32:31.008Z",
       "attempts": 1,
       "error": null
     },
@@ -70,8 +70,8 @@
       "status": "restricted",
       "http_status": 403,
       "final_url": "https://kodi.tv/",
-      "response_ms": 926,
-      "checked_at": "2026-06-19T09:28:19.991Z",
+      "response_ms": 103,
+      "checked_at": "2026-06-19T09:32:31.072Z",
       "attempts": 1,
       "error": null
     },
@@ -81,8 +81,8 @@
       "status": "reachable",
       "http_status": 206,
       "final_url": "https://github.com/iptv-org/iptv",
-      "response_ms": 961,
-      "checked_at": "2026-06-19T09:28:20.917Z",
+      "response_ms": 2009,
+      "checked_at": "2026-06-19T09:32:31.116Z",
       "attempts": 1,
       "error": null
     },
@@ -92,21 +92,21 @@
       "status": "reachable",
       "http_status": 200,
       "final_url": "https://www.mjf2020.com/",
-      "response_ms": 259,
-      "checked_at": "2026-06-19T09:28:21.878Z",
+      "response_ms": 1050,
+      "checked_at": "2026-06-19T09:32:31.157Z",
       "attempts": 1,
       "error": null
     },
     {
       "resource_id": "cilixiong",
       "url": "https://www.cilixiong.org",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 7627,
-      "checked_at": "2026-06-19T09:28:22.137Z",
-      "attempts": 2,
-      "error": "fetch failed"
+      "status": "reachable",
+      "http_status": 200,
+      "final_url": "https://www.cilixiong.org/",
+      "response_ms": 326,
+      "checked_at": "2026-06-19T09:32:31.175Z",
+      "attempts": 1,
+      "error": null
     },
     {
       "resource_id": "kuake-so-1",
@@ -114,8 +114,8 @@
       "status": "reachable",
       "http_status": 200,
       "final_url": "https://www.kuake.so/",
-      "response_ms": 575,
-      "checked_at": "2026-06-19T09:28:22.933Z",
+      "response_ms": 667,
+      "checked_at": "2026-06-19T09:32:31.501Z",
       "attempts": 1,
       "error": null
     },
@@ -125,8 +125,8 @@
       "status": "reachable",
       "http_status": 200,
       "final_url": "https://www.kuakeso.net/",
-      "response_ms": 183,
-      "checked_at": "2026-06-19T09:28:23.508Z",
+      "response_ms": 618,
+      "checked_at": "2026-06-19T09:32:31.595Z",
       "attempts": 1,
       "error": null
     },
@@ -136,8 +136,8 @@
       "status": "reachable",
       "http_status": 200,
       "final_url": "https://www.zhuiju.us/",
-      "response_ms": 441,
-      "checked_at": "2026-06-19T09:28:23.691Z",
+      "response_ms": 622,
+      "checked_at": "2026-06-19T09:32:32.168Z",
       "attempts": 1,
       "error": null
     },
@@ -147,8 +147,8 @@
       "status": "reachable",
       "http_status": 200,
       "final_url": "https://www.gugeso.com/",
-      "response_ms": 191,
-      "checked_at": "2026-06-19T09:28:24.132Z",
+      "response_ms": 599,
+      "checked_at": "2026-06-19T09:32:32.207Z",
       "attempts": 1,
       "error": null
     }

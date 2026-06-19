@@ -82,7 +82,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap>⚠️&#8288;谨慎</td>
       <td align="center" nowrap>高</td>
-      <td align="center" nowrap><!-- availability:gaze-red -->🟢&#8288;可&#8288;访问<!-- /availability:gaze-red --></td>
+      <td align="center" nowrap><!-- availability:gaze-red -->🟡&#8288;访问&#8288;受限<!-- /availability:gaze-red --></td>
       <td align="center"><!-- availability-date:gaze-red -->2026&#8209;06&#8209;19<!-- /availability-date:gaze-red --></td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap>⚠️&#8288;谨慎</td>
       <td align="center" nowrap>高</td>
-      <td align="center" nowrap><!-- availability:no-video -->🔴&#8288;无法&#8288;访问<!-- /availability:no-video --></td>
+      <td align="center" nowrap><!-- availability:no-video -->🟡&#8288;访问&#8288;受限<!-- /availability:no-video --></td>
       <td align="center"><!-- availability-date:no-video -->2026&#8209;06&#8209;19<!-- /availability-date:no-video --></td>
     </tr>
     <tr>
@@ -109,7 +109,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap>⚠️&#8288;谨慎</td>
       <td align="center" nowrap>高</td>
-      <td align="center" nowrap><!-- availability:xlys -->🔴&#8288;无法&#8288;访问<!-- /availability:xlys --></td>
+      <td align="center" nowrap><!-- availability:xlys -->🟢&#8288;可&#8288;访问<!-- /availability:xlys --></td>
       <td align="center"><!-- availability-date:xlys -->2026&#8209;06&#8209;19<!-- /availability-date:xlys --></td>
     </tr>
   </tbody>
@@ -203,7 +203,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap>⚠️&#8288;谨慎</td>
       <td align="center" nowrap>高</td>
-      <td align="center" nowrap><!-- availability:cilixiong -->🔴&#8288;无法&#8288;访问<!-- /availability:cilixiong --></td>
+      <td align="center" nowrap><!-- availability:cilixiong -->🟢&#8288;可&#8288;访问<!-- /availability:cilixiong --></td>
       <td align="center"><!-- availability-date:cilixiong -->2026&#8209;06&#8209;19<!-- /availability-date:cilixiong --></td>
     </tr>
   </tbody>
