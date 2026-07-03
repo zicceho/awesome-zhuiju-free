@@ -350,7 +350,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td nowrap>饭太硬</td>
       <td><code>http:<wbr>/<wbr>/<wbr>www.<wbr>饭太硬.<wbr>com/<wbr>tv</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:fan-tai-ying -->🟢&#8288;可&#8288;访问<!-- /availability:fan-tai-ying --></td>
+      <td align="center" nowrap><!-- availability:fan-tai-ying -->🔴&#8288;无法&#8288;访问<!-- /availability:fan-tai-ying --></td>
       <td align="center" nowrap><!-- availability-date:fan-tai-ying -->2026&#8209;07&#8209;04<!-- /availability-date:fan-tai-ying --></td>
     </tr>
     <tr>
@@ -364,21 +364,21 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td nowrap>老刘备</td>
       <td><code>https:<wbr>/<wbr>/<wbr>raw.<wbr>liucn.<wbr>cc/<wbr>box/<wbr>m.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:lao-liu-bei -->⚪&#8288;未&#8288;检测<!-- /availability:lao-liu-bei --></td>
+      <td align="center" nowrap><!-- availability:lao-liu-bei -->🟢&#8288;可&#8288;访问<!-- /availability:lao-liu-bei --></td>
       <td align="center" nowrap><!-- availability-date:lao-liu-bei -->2026&#8209;07&#8209;04<!-- /availability-date:lao-liu-bei --></td>
     </tr>
     <tr>
       <td nowrap>俊佬</td>
       <td><code>http:<wbr>/<wbr>/<wbr>home.<wbr>jundie.<wbr>top:<wbr>81/<wbr>top98.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:jun-lao -->⚪&#8288;未&#8288;检测<!-- /availability:jun-lao --></td>
+      <td align="center" nowrap><!-- availability:jun-lao -->🟢&#8288;可&#8288;访问<!-- /availability:jun-lao --></td>
       <td align="center" nowrap><!-- availability-date:jun-lao -->2026&#8209;07&#8209;04<!-- /availability-date:jun-lao --></td>
     </tr>
     <tr>
       <td nowrap>小马</td>
       <td><code>https:<wbr>/<wbr>/<wbr>szyyds.<wbr>cn/<wbr>tv/<wbr>x.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xiao-ma -->⚪&#8288;未&#8288;检测<!-- /availability:xiao-ma --></td>
+      <td align="center" nowrap><!-- availability:xiao-ma -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-ma --></td>
       <td align="center" nowrap><!-- availability-date:xiao-ma -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-ma --></td>
     </tr>
     <tr>
