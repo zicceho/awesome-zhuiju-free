@@ -9,7 +9,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-39_个资源-0f766e?style=for-the-badge" alt="已收录 39 个资源"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-37_个资源-0f766e?style=for-the-badge" alt="已收录 37 个资源"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行"></a>
 </p>
@@ -35,7 +35,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-d97706?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox播放器"><img src="https://img.shields.io/badge/TVbox播放器-1-059669?style=flat-square" alt="TVbox播放器"></a>
   <a href="#订阅源"><img src="https://img.shields.io/badge/订阅源-1-db2777?style=flat-square" alt="订阅源"></a>
-  <a href="#影视仓配置地址"><img src="https://img.shields.io/badge/影视仓配置-8-0891b2?style=flat-square" alt="影视仓配置地址"></a>
+  <a href="#影视仓配置地址"><img src="https://img.shields.io/badge/影视仓配置-6-0891b2?style=flat-square" alt="影视仓配置地址"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-64748b?style=flat-square" alt="会员拼团"></a>
   <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-7-0f172a?style=flat-square" alt="开源项目"></a>
 </p>
@@ -361,39 +361,25 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center" nowrap><!-- availability-date:fei-mao -->2026&#8209;07&#8209;04<!-- /availability-date:fei-mao --></td>
     </tr>
     <tr>
-      <td nowrap>骚零</td>
-      <td><code>https:<wbr>/<wbr>/<wbr>100km.<wbr>top/<wbr>0</code></td>
+      <td nowrap>老刘备</td>
+      <td><code>https:<wbr>/<wbr>/<wbr>raw.<wbr>liucn.<wbr>cc/<wbr>box/<wbr>m.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:sao-ling -->🔴&#8288;无法&#8288;访问<!-- /availability:sao-ling --></td>
-      <td align="center" nowrap><!-- availability-date:sao-ling -->2026&#8209;07&#8209;04<!-- /availability-date:sao-ling --></td>
+      <td align="center" nowrap><!-- availability:lao-liu-bei -->⚪&#8288;未&#8288;检测<!-- /availability:lao-liu-bei --></td>
+      <td align="center" nowrap><!-- availability-date:lao-liu-bei -->2026&#8209;07&#8209;04<!-- /availability-date:lao-liu-bei --></td>
     </tr>
     <tr>
-      <td nowrap>小米</td>
-      <td><code>https:<wbr>/<wbr>/<wbr>3450.<wbr>kstore.<wbr>space/<wbr>DEMO.<wbr>json</code></td>
+      <td nowrap>俊佬</td>
+      <td><code>http:<wbr>/<wbr>/<wbr>home.<wbr>jundie.<wbr>top:<wbr>81/<wbr>top98.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xiao-mi -->🔴&#8288;无法&#8288;访问<!-- /availability:xiao-mi --></td>
-      <td align="center" nowrap><!-- availability-date:xiao-mi -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-mi --></td>
+      <td align="center" nowrap><!-- availability:jun-lao -->⚪&#8288;未&#8288;检测<!-- /availability:jun-lao --></td>
+      <td align="center" nowrap><!-- availability-date:jun-lao -->2026&#8209;07&#8209;04<!-- /availability-date:jun-lao --></td>
     </tr>
     <tr>
-      <td nowrap>OK佬1</td>
-      <td><code>http:<wbr>/<wbr>/<wbr>ok321.<wbr>top/<wbr>tv</code></td>
+      <td nowrap>小马</td>
+      <td><code>https:<wbr>/<wbr>/<wbr>szyyds.<wbr>cn/<wbr>tv/<wbr>x.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:ok-lao-1 -->🔴&#8288;无法&#8288;访问<!-- /availability:ok-lao-1 --></td>
-      <td align="center" nowrap><!-- availability-date:ok-lao-1 -->2026&#8209;07&#8209;04<!-- /availability-date:ok-lao-1 --></td>
-    </tr>
-    <tr>
-      <td nowrap>OK佬2</td>
-      <td><code>http:<wbr>/<wbr>/<wbr>ok321.<wbr>top/<wbr>ok</code></td>
-      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:ok-lao-2 -->🔴&#8288;无法&#8288;访问<!-- /availability:ok-lao-2 --></td>
-      <td align="center" nowrap><!-- availability-date:ok-lao-2 -->2026&#8209;07&#8209;04<!-- /availability-date:ok-lao-2 --></td>
-    </tr>
-    <tr>
-      <td nowrap>牛蛙</td>
-      <td><code>http:<wbr>/<wbr>/<wbr>tvbox.<wbr>xn-<wbr>-<wbr>4kq62z5rby2qupq9ub.<wbr>top/<wbr></code></td>
-      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:niu-wa -->🔴&#8288;无法&#8288;访问<!-- /availability:niu-wa --></td>
-      <td align="center" nowrap><!-- availability-date:niu-wa -->2026&#8209;07&#8209;04<!-- /availability-date:niu-wa --></td>
+      <td align="center" nowrap><!-- availability:xiao-ma -->⚪&#8288;未&#8288;检测<!-- /availability:xiao-ma --></td>
+      <td align="center" nowrap><!-- availability-date:xiao-ma -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-ma --></td>
     </tr>
     <tr>
       <td nowrap><a href="https://cyuan.netlify.app/" target="_blank" rel="noopener noreferrer">更多地址</a></td>
