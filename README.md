@@ -271,7 +271,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center" nowrap><!-- availability-date:gugeso -->2026&#8209;07&#8209;04<!-- /availability-date:gugeso --></td>
     </tr>
     <tr>
-      <td nowrap><a href="https://www.kuakeso.net/" target="_blank" rel="noopener noreferrer">KK网盘搜</a></td>
+      <td nowrap><a href="https://kkso.net" target="_blank" rel="noopener noreferrer">夸克搜</a></td>
       <td nowrap>夸克百度网盘搜索</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:kuakeso -->🟢&#8288;可&#8288;访问<!-- /availability:kuakeso --></td>
