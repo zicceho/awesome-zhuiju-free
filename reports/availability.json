@@ -274,6 +274,17 @@
       "error": null
     },
     {
+      "resource_id": "animeko-app",
+      "url": "https://animeko.org/downloads/",
+      "status": "reachable",
+      "http_status": 200,
+      "final_url": "https://animeko.org/downloads/",
+      "response_ms": 2300,
+      "checked_at": "2026-07-10T14:57:54.082Z",
+      "attempts": 1,
+      "error": null
+    },
+    {
       "resource_id": "zimuku",
       "url": "https://zimuku.org",
       "status": "unreachable",

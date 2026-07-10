@@ -93,11 +93,6 @@ function shortSummary(resource) {
   return String(resource.summary_short ?? resource.summary).replace(/[。.!！]$/, "");
 }
 
-function recommendationStars(resource) {
-  const rating = recommendationRating(resource);
-  return Array.from({ length: rating }, () => "🌟").join("&#8288;");
-}
-
 function recommendationRating(resource) {
   const average =
     (resource.scores.more +
@@ -183,7 +178,6 @@ function tableFor(resources, availabilityById, options = {}) {
       return `    <tr>
       <td nowrap>${nameCell}</td>
       <td${summaryAttribute}>${summaryCell}</td>
-      <td align="center" nowrap>${recommendationStars(resource)}</td>
       <td align="center" nowrap><!-- availability:${resource.id} -->${status}<!-- /availability:${resource.id} --></td>
       <td align="center" nowrap><!-- availability-date:${resource.id} -->${checkedAt}<!-- /availability-date:${resource.id} --></td>
     </tr>`;
@@ -194,8 +188,7 @@ function tableFor(resources, availabilityById, options = {}) {
   <thead>
     <tr>
       <th width="20%" nowrap>资源</th>
-      <th width="30%" nowrap>${summaryHeading}</th>
-      <th width="20%" nowrap>推荐指数</th>
+      <th width="50%" nowrap>${summaryHeading}</th>
       <th width="15%" nowrap>状&#8288;态</th>
       <th width="15%" nowrap>检测时间</th>
     </tr>

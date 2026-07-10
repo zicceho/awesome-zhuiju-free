@@ -265,6 +265,21 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充将 No影视访问地址从 https://www.novipnoad.cc/ 更新为 https://novipnoad.org/；后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+    },
+    {
+      "id": "verify-20260710-animeko",
+      "resource_ids": [
+        "animeko-app"
+      ],
+      "checked_at": "2026-07-10",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充收录 Animeko（https://animeko.org/downloads/），简介为一站式在线弹幕追番平台，支持 Android、Windows、macOS、Linux 和 iOS；后续由 GitHub Actions 自动检测可用性，并持续观察应用安装来源、内容来源、版权状态与隐私安全。"
     }
   ]
 }

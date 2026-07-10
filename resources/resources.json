@@ -916,6 +916,44 @@
       "featured": true
     },
     {
+      "id": "animeko-app",
+      "name": "Animeko",
+      "url": "https://animeko.org/downloads/",
+      "category": "video_app",
+      "summary": "一站式在线弹幕追番平台，支持 Android、Windows、macOS、Linux 和 iOS。",
+      "summary_short": "在线弹幕追番平台，多端支持",
+      "tags": ["影视APP", "动漫", "追番", "弹幕", "Android", "Windows", "macOS", "Linux", "iOS"],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": ["GLOBAL"]
+      },
+      "scores": {
+        "more": 4.0,
+        "speed": 4.0,
+        "clean": 4.0,
+        "stable": 4.0,
+        "ease": 4.0
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-07-10",
+        "method": "manual",
+        "notes": "根据用户补充收录 Animeko 下载页；简介为一站式在线弹幕追番平台，支持 Android、Windows、macOS、Linux 和 iOS。应用安装来源、内容来源、版权状态与隐私安全需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-07-10"
+      },
+      "featured": true
+    },
+    {
       "id": "zimuku",
       "name": "字幕库",
       "url": "https://zimuku.org",
@@ -2003,7 +2041,7 @@
       "featured_order": 1,
       "github": {
         "full_name": "mtvpls/MoonTVPlus",
-        "stars": 2649,
+        "stars": 2680,
         "pushed_at": "2026-07-06T01:53:26Z"
       }
     },
@@ -2047,7 +2085,7 @@
       "featured_order": 2,
       "github": {
         "full_name": "Hiram-Wong/zyfun",
-        "stars": 8614,
+        "stars": 8630,
         "pushed_at": "2026-06-25T14:11:54Z"
       }
     },
@@ -2091,8 +2129,8 @@
       "featured_order": 3,
       "github": {
         "full_name": "Guovin/iptv-api",
-        "stars": 24475,
-        "pushed_at": "2026-07-06T02:46:27Z"
+        "stars": 24555,
+        "pushed_at": "2026-07-10T09:56:43Z"
       }
     },
     {
@@ -2135,8 +2173,8 @@
       "featured_order": 4,
       "github": {
         "full_name": "iptv-org/iptv",
-        "stars": 130615,
-        "pushed_at": "2026-07-06T00:33:09Z"
+        "stars": 132005,
+        "pushed_at": "2026-07-10T00:32:59Z"
       }
     },
     {
@@ -2179,7 +2217,7 @@
       "featured_order": 5,
       "github": {
         "full_name": "fish2018/pansou",
-        "stars": 13758,
+        "stars": 13810,
         "pushed_at": "2026-06-14T14:06:26Z"
       }
     },
@@ -2223,7 +2261,7 @@
       "featured_order": 6,
       "github": {
         "full_name": "jiangrui1994/CloudSaver",
-        "stars": 9044,
+        "stars": 9058,
         "pushed_at": "2026-04-20T03:28:29Z"
       }
     },
@@ -2267,8 +2305,52 @@
       "featured_order": 7,
       "github": {
         "full_name": "Cp0204/quark-auto-save",
-        "stars": 2904,
-        "pushed_at": "2026-05-14T12:32:13Z"
+        "stars": 2915,
+        "pushed_at": "2026-07-09T11:44:49Z"
+      }
+    },
+    {
+      "id": "animeko",
+      "name": "Animeko",
+      "url": "https://github.com/open-ani/animeko",
+      "category": "open_source",
+      "summary": "Animeko 是集找番、追番、看番的一站式弹幕追番平台。",
+      "summary_short": "一站式弹幕追番平台",
+      "tags": ["开源项目", "追番", "弹幕"],
+      "access": {
+        "requires_login": false,
+        "free_level": "free",
+        "regions": ["GLOBAL"]
+      },
+      "scores": {
+        "more": 5.0,
+        "speed": 5.0,
+        "clean": 5.0,
+        "stable": 5.0,
+        "ease": 5.0
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "low"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-07-10",
+        "method": "manual",
+        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-07-10"
+      },
+      "featured": true,
+      "featured_order": 8,
+      "github": {
+        "full_name": "open-ani/animeko",
+        "stars": 18779,
+        "pushed_at": "2026-07-10T12:09:38Z"
       }
     }
   ]
