@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-10",
+  "updated_at": "2026-07-11",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -105,7 +105,6 @@
       "id": "verify-20260619-online-video-second-batch",
       "resource_ids": [
         "duonao-video",
-        "haina-tv",
         "tdgo",
         "ai-movie",
         "jpyy",
@@ -122,7 +121,7 @@
         "network": "screenshot submitted"
       },
       "result": "pending_review",
-      "notes": "根据截图信息收录在线影视资源：多瑙影视、海纳TV、火车太堵、爱电影、金牌影视、937影视、爱壹帆、厂长资源和 LIBVIO。推荐指数、访问网址和简介按截图填写；截图中的访问状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性。"
+      "notes": "根据截图信息收录在线影视资源：多瑙影视、火车太堵、爱电影、金牌影视、937影视、爱壹帆、厂长资源和 LIBVIO。推荐指数、访问网址和简介按截图填写；不可访问资源已从当前列表移除；截图中的访问状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性。"
     },
     {
       "id": "verify-20260704-tvbox-config-batch",
