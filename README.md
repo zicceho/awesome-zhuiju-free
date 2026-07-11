@@ -10,8 +10,6 @@
 ✅ 每日自动检测可用性，资源不是死列表<br>
 🔓 完全开源，社区共同维护</p>
 
-> 🇨🇳 国内访问：[Gitee 镜像](https://gitee.com/laoma2053/awesome-zhuiju-free)（与 GitHub 实时同步）
-
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
   <!-- resource-count:start -->
