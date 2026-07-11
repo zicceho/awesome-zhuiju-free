@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-07-10",
+  "updated_at": "2026-07-11",
   "resources": [
     {
       "id": "no-video",
@@ -2435,8 +2435,8 @@
       "featured_order": 1,
       "github": {
         "full_name": "mtvpls/MoonTVPlus",
-        "stars": 2680,
-        "pushed_at": "2026-07-06T01:53:26Z"
+        "stars": 2682,
+        "pushed_at": "2026-07-11T02:07:50Z"
       }
     },
     {
@@ -2485,7 +2485,7 @@
       "featured_order": 2,
       "github": {
         "full_name": "Hiram-Wong/zyfun",
-        "stars": 8630,
+        "stars": 8635,
         "pushed_at": "2026-06-25T14:11:54Z"
       }
     },
@@ -2535,7 +2535,7 @@
       "featured_order": 3,
       "github": {
         "full_name": "Guovin/iptv-api",
-        "stars": 24555,
+        "stars": 24561,
         "pushed_at": "2026-07-10T09:56:43Z"
       }
     },
@@ -2585,8 +2585,8 @@
       "featured_order": 4,
       "github": {
         "full_name": "iptv-org/iptv",
-        "stars": 132005,
-        "pushed_at": "2026-07-10T00:32:59Z"
+        "stars": 132138,
+        "pushed_at": "2026-07-11T00:26:52Z"
       }
     },
     {
@@ -2635,7 +2635,7 @@
       "featured_order": 5,
       "github": {
         "full_name": "fish2018/pansou",
-        "stars": 13810,
+        "stars": 13816,
         "pushed_at": "2026-06-14T14:06:26Z"
       }
     },
@@ -2685,7 +2685,7 @@
       "featured_order": 6,
       "github": {
         "full_name": "jiangrui1994/CloudSaver",
-        "stars": 9058,
+        "stars": 9060,
         "pushed_at": "2026-04-20T03:28:29Z"
       }
     },
@@ -2735,7 +2735,7 @@
       "featured_order": 7,
       "github": {
         "full_name": "Cp0204/quark-auto-save",
-        "stars": 2915,
+        "stars": 2916,
         "pushed_at": "2026-07-09T11:44:49Z"
       }
     },
@@ -2785,8 +2785,59 @@
       "featured_order": 8,
       "github": {
         "full_name": "open-ani/animeko",
-        "stars": 18779,
-        "pushed_at": "2026-07-10T12:09:38Z"
+        "stars": 18791,
+        "pushed_at": "2026-07-10T16:40:33Z"
+      }
+    },
+    {
+      "id": "predidit-kazumi",
+      "name": "Kazumi",
+      "url": "https://github.com/Predidit/Kazumi",
+      "category": "open_source",
+      "summary": "Kazumi 是免费无广告的番剧采集与在线观看项目。",
+      "summary_short": "免费无广告的番剧采集与在线观看",
+      "tags": [
+        "开源项目",
+        "番剧",
+        "在线观看",
+        "无广告"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "free",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "low"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-07-11",
+        "method": "manual",
+        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-07-11"
+      },
+      "featured": true,
+      "featured_order": 9,
+      "github": {
+        "full_name": "Predidit/Kazumi",
+        "stars": 27522,
+        "pushed_at": "2026-07-10T11:32:19Z"
       }
     },
     {
