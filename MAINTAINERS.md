@@ -64,8 +64,11 @@
 | 管理员在资源 Issue 评论 `no` | 回复并关闭 Issue |
 | `resources/resources.json` 发生变化 | 根据精选资源重新生成 README，并执行可用性检测 |
 | 每天北京时间约 09:00 | 检测精选资源主页状态，更新 README 和 `reports/availability.json` |
+| 每周日北京时间约 22:00 | 根据正式数据库、可用性报告和上一期周报生成 GitHub Release 周报 |
 
 README 的精选榜单由 `scripts/sync-readme.mjs` 生成。不要直接修改 `<!-- featured-resources:start -->` 与 `<!-- featured-resources:end -->` 之间的内容，自动任务会覆盖这些修改。
+
+每周 Release 由 `scripts/generate-weekly-release.mjs` 和 `.github/workflows/weekly-release.yml` 生成。Release tag 使用 `weekly-YYYY-Www` 格式，例如 `weekly-2026-W28`。首次没有上一期 tag 时，脚本会按本周新增日期生成摘要；后续会自动对比上一期周报 tag。
 
 ## 建议的仓库设置
 

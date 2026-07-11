@@ -24,7 +24,7 @@
   <a href="https://deepwiki.com/laoma2053/awesome-zhuiju-free"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </p>
 
-**[浏览精选资源](#精选资源)** · **[推荐新资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)** · **[贡献指南](CONTRIBUTING.md)**
+**[浏览精选资源](#精选资源)** · **[订阅每周更新](https://github.com/laoma2053/awesome-zhuiju-free/releases)** · **[推荐新资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)** · **[贡献指南](CONTRIBUTING.md)**
 
 觉得有用？点个 ⭐ Star 支持一下，帮助更多追剧党发现这里。
 
