@@ -4,10 +4,10 @@
 
 ### 追剧不踩坑，资源有人测
 
-🎬 在线影视 · 影视APP · 字幕资源
-📦 网盘搜索 · 磁力 BT · TVBox配置 · IPTV 订阅源
-✅ 每日自动检测可用性，资源不是死列表
-🔓 完全开源，无广告，社区共同维护
+<p>🎬 在线影视 · 影视APP · 字幕资源<br>
+📦 网盘搜索 · 磁力 BT · TVBox配置 · IPTV 订阅源<br>
+✅ 每日自动检测可用性，资源不是死列表<br>
+🔓 完全开源，无广告，社区共同维护</p>
 
 > 🇨🇳 国内访问：[Gitee 镜像](https://gitee.com/laoma2053/awesome-zhuiju-free)（与 GitHub 实时同步）
 
@@ -21,11 +21,8 @@
 
 <p align="center">
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=for-the-badge&color=yellow" alt="GitHub Stars"></a>
+  <a href="https://trendshift.io/repositories/79445"><img src="https://img.shields.io/badge/Trendshift-已收录-7c3aed?style=for-the-badge" alt="Trendshift"></a>
   <a href="https://deepwiki.com/laoma2053/awesome-zhuiju-free"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-</p>
-
-<p align="center">
-  <a href="https://trendshift.io/repositories/79445"><img src="https://trendshift.io/api/badge/repositories/79445" alt="Trendshift" width="250"></a>
 </p>
 
 **[浏览精选资源](#精选资源)** · **[推荐新资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)** · **[贡献指南](CONTRIBUTING.md)**
