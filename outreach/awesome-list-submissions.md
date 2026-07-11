@@ -83,20 +83,26 @@
 
 > 适用：iptv-org/awesome-iptv、OshekharO/awesome-entertainment、sindresorhus/awesome 等英文列表
 
+**PR 标题（直接复制）：**
+
+```
+Add awesome-zhuiju-free — manually curated free ad-free Chinese streaming resources with daily availability checks
+```
+
 ```markdown
 ## Add awesome-zhuiju-free
 
-**What is this?**
+### What is this?
 A manually curated list of free, ad-free Chinese streaming resources. Every resource is hand-picked — only free, genuinely ad-free content makes it in. Includes online video sites, video apps, TVBox/movie-warehouse config addresses, IPTV subscriptions, subtitle resources, and magnet/BT search tools.
 
-**Why is it awesome?**
+### Why is it awesome?
 - Every resource is manually vetted — only free, ad-free content is accepted; paid or ad-heavy sites are excluded
 - GitHub Actions runs daily availability checks on all listed resources — live status shown in README (🟢/🟡/🔴)
 - Fully open source with structured JSON data and schema validation
 - Community contribution via Issue templates, no Git knowledge required
 - 1000+ GitHub Stars in the first week
 
-**Links**
+### Links
 - GitHub: https://github.com/laoma2053/awesome-zhuiju-free
 - Website: https://zhuiju.me
 - Gitee (China mirror): https://gitee.com/laoma2053/awesome-zhuiju-free
@@ -119,11 +125,17 @@ A manually curated list of free, ad-free Chinese streaming resources. Every reso
 
 在线体验：https://zhuiju.me
 
+### 项目背景
+
 追剧找资源，最烦的不是没有资源，而是"不知道今天哪个还能用"——收藏夹里十几个站，打开才发现一半挂了，剩下几个全是弹窗广告。
 
-Awesome Zhuiju Free 专门解决这个问题。它是一份经过人工精选的免费无广告追剧资源导航——每一个收录的资源都经过维护者审核筛选，确保免费且无广告，劣质资源不会进来。最大的不同在于：GitHub Actions 每天早上自动检测所有收录资源是否可访问，结果实时标注在页面上，打开就知道今天哪些能用。
+Awesome Zhuiju Free 专门解决这个问题。
 
-亮点：
+它是一份经过人工精选的免费无广告追剧资源导航——每一个收录的资源都经过维护者审核筛选，确保免费且无广告，劣质资源不会进来。
+
+最大的不同在于：GitHub Actions 每天早上自动检测所有收录资源是否可访问，结果实时标注在页面上，打开就知道今天哪些能用。
+
+### 亮点
 
 1. **人工精选，仅收录免费无广告资源** — 每个资源都经过维护者审核，有广告、需要付费或质量差的资源不会被收录。
 2. **每日自动可用性检测** — GitHub Actions 每天自动跑一遍，🟢可访问 / 🟡访问受限 / 🔴无法访问，不用自己逐一验证。
@@ -131,11 +143,16 @@ Awesome Zhuiju Free 专门解决这个问题。它是一份经过人工精选的
 4. **结构化开源数据** — 资源数据存在 JSON 文件，有 Schema 验证，每个资源有评分和风险标注（版权/安全/隐私），如实填写不掩盖。
 5. **社区驱动，零门槛贡献** — 普通用户通过 Issue 模板提交新资源，维护者审核后命令自动发布，不需要懂 Git。
 
-适用人群：所有追剧的中文用户，特别是无广告在线观看用户、网盘追剧用户、TVBox/影视仓玩家、IPTV 用户。
+### 适用人群
+
+所有追剧的中文用户，特别是无广告在线观看用户、网盘追剧用户、TVBox/影视仓玩家、IPTV 用户。
+
+### 基本信息
 
 开源协议：MIT
 
-截图：
+### 截图
+
 （附 README 截图或 zhuiju.me 网站截图）
 ```
 

@@ -794,4 +794,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 [zhuiju.me](https://zhuiju.me) · [推荐资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml) · [报告问题](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)
 
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+本项目数据与内容采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 协议授权，代码部分采用 [MIT](LICENSE) 协议。
+
 </div>
