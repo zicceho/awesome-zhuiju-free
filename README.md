@@ -116,9 +116,9 @@
 
 | 资源 | 简介 | 支持平台 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
-| [SeleneTV](<https://b.zhuiju.me/archives/4/>) | 跨平台 MoonTV 客户端 | Android、iOS、macOS、Windows | <!-- availability:selenetv-app -->🟢&#8288;可&#8288;访问<!-- /availability:selenetv-app --> | <!-- availability-date:selenetv-app -->2026&#8209;07&#8209;18<!-- /availability-date:selenetv-app --> |
+| [SeleneTV](<https://b.zhuiju.me/archives/4/>) | 跨平台 MoonTV 客户端 | Android / iOS / macOS / Windows | <!-- availability:selenetv-app -->🟢&#8288;可&#8288;访问<!-- /availability:selenetv-app --> | <!-- availability-date:selenetv-app -->2026&#8209;07&#8209;18<!-- /availability-date:selenetv-app --> |
 | [Kazumi](<https://kazumi.app/download>) | 免费无广告/在线观看番剧 | Android / iOS / Windows / macOS / HarmonyOS | <!-- availability:kazumi -->🟢&#8288;可&#8288;访问<!-- /availability:kazumi --> | <!-- availability-date:kazumi -->2026&#8209;07&#8209;18<!-- /availability-date:kazumi --> |
-| [Animeko](<https://animeko.org/downloads/>) | 一站式在线弹幕追番平台 | Android、Windows、macOS、Linux、iOS | <!-- availability:animeko-app -->🟢&#8288;可&#8288;访问<!-- /availability:animeko-app --> | <!-- availability-date:animeko-app -->2026&#8209;07&#8209;18<!-- /availability-date:animeko-app --> |
+| [Animeko](<https://animeko.org/downloads/>) | 一站式在线弹幕追番平台 | Android / Windows / macOS / Linux / iOS | <!-- availability:animeko-app -->🟢&#8288;可&#8288;访问<!-- /availability:animeko-app --> | <!-- availability-date:animeko-app -->2026&#8209;07&#8209;18<!-- /availability-date:animeko-app --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 

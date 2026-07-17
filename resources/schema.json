@@ -107,10 +107,6 @@
           },
           "uniqueItems": true
         },
-        "platform_separator": {
-          "type": "string",
-          "minLength": 1
-        },
         "tags": {
           "type": "array",
           "items": {

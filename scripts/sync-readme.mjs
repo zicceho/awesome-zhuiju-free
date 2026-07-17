@@ -246,10 +246,7 @@ function categorySection(category, resources, availabilityById) {
             thirdCell:
               category.id === "video_app"
                 ? (resource) =>
-                    markdownCell(
-                      (resource.platforms ?? []).join(resource.platform_separator ?? "、") ||
-                        "未注明"
-                    )
+                    markdownCell((resource.platforms ?? []).join(" / ") || "未注明")
                 : undefined,
             plainName: (resource) =>
               category.id === "tvbox_config" && !resource.link_url,
