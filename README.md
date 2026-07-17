@@ -236,18 +236,18 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 ### 开源项目
 
-| 资源 | 简介 | star数 | 最近更新 |
-| --- | --- | :---: | :---: |
-| [MoonTVPlus](<https://github.com/mtvpls/MoonTVPlus>) | MoonTV 增强版影视聚合播放器 | 2,696 | 2026-07-11 |
-| [zyfun](<https://github.com/Hiram-Wong/zyfun>) | 跨平台桌面端视频资源播放器 | 8,643 | 2026-06-25 |
-| [iptv-api](<https://github.com/Guovin/iptv-api>) | IPTV 直播源自动采集筛选更新平台 | 24,591 | 2026-07-10 |
-| [iptv](<https://github.com/iptv-org/iptv>) | 全球公开 IPTV 频道集合 | 132,645 | 2026-07-13 |
-| [pansou](<https://github.com/fish2018/pansou>) | 高性能网盘资源搜索 API 服务 | 13,834 | 2026-06-14 |
-| [CloudSaver](<https://github.com/jiangrui1994/CloudSaver>) | 网盘资源搜索与转存工具 | 9,062 | 2026-04-20 |
-| [quark-auto-save](<https://github.com/Cp0204/quark-auto-save>) | 夸克网盘自动签到转存整理工具 | 2,920 | 2026-07-09 |
-| [Animeko](<https://github.com/open-ani/animeko>) | 一站式弹幕追番平台 | 18,840 | 2026-07-13 |
-| [Kazumi](<https://github.com/Predidit/Kazumi>) | 免费无广告的番剧采集与在线观看 | 27,586 | 2026-07-13 |
-| [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,346 | 2026-05-25 |
+| 资源 | 简介 | star数 | 最近一周 Star | 仓库更新时间 |
+| --- | --- | :---: | :---: | :---: |
+| [iptv](<https://github.com/iptv-org/iptv>) | 全球公开 IPTV 频道集合 | 133,161 | 待更新 | 2026-07-17 |
+| [Kazumi](<https://github.com/Predidit/Kazumi>) | 免费无广告的番剧采集与在线观看 | 27,766 | 待更新 | 2026-07-17 |
+| [iptv-api](<https://github.com/Guovin/iptv-api>) | IPTV 直播源自动采集筛选更新平台 | 24,636 | 待更新 | 2026-07-16 |
+| [Animeko](<https://github.com/open-ani/animeko>) | 一站式弹幕追番平台 | 18,923 | 待更新 | 2026-07-17 |
+| [pansou](<https://github.com/fish2018/pansou>) | 高性能网盘资源搜索 API 服务 | 13,889 | 待更新 | 2026-06-14 |
+| [CloudSaver](<https://github.com/jiangrui1994/CloudSaver>) | 网盘资源搜索与转存工具 | 9,077 | 待更新 | 2026-04-20 |
+| [zyfun](<https://github.com/Hiram-Wong/zyfun>) | 跨平台桌面端视频资源播放器 | 8,667 | 待更新 | 2026-06-25 |
+| [quark-auto-save](<https://github.com/Cp0204/quark-auto-save>) | 夸克网盘自动签到转存整理工具 | 2,929 | 待更新 | 2026-07-09 |
+| [MoonTVPlus](<https://github.com/mtvpls/MoonTVPlus>) | MoonTV 增强版影视聚合播放器 | 2,738 | 待更新 | 2026-07-11 |
+| [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,357 | 待更新 | 2026-05-25 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 <!-- featured-resources:end -->

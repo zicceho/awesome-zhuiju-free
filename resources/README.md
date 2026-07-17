@@ -30,5 +30,6 @@
 - `risks`：版权、安全、隐私和支付风险。
 - `verification`：资源当前状态和最后一次验证摘要。
 - `source`：首次收录来源与日期。
+- `github`：开源项目使用，记录仓库名、总 Star、最近一周 Star 和仓库更新时间。
 
 完整限制见 [`schema.json`](schema.json)。每次修改资源后，应同步追加 [`reports/verifications.json`](../reports/verifications.json) 中的验证记录。

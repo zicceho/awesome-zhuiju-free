@@ -230,7 +230,7 @@
         },
         "github": {
           "type": "object",
-          "required": ["full_name", "stars", "pushed_at"],
+          "required": ["full_name", "stars", "weekly_stars", "pushed_at"],
           "additionalProperties": false,
           "properties": {
             "full_name": {
@@ -239,6 +239,10 @@
             },
             "stars": {
               "type": "integer",
+              "minimum": 0
+            },
+            "weekly_stars": {
+              "type": ["integer", "null"],
               "minimum": 0
             },
             "pushed_at": {

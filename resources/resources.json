@@ -2794,7 +2794,7 @@
         "status": "recommended",
         "last_checked": "2026-06-19",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -2804,7 +2804,8 @@
       "featured_order": 1,
       "github": {
         "full_name": "mtvpls/MoonTVPlus",
-        "stars": 2696,
+        "stars": 2738,
+        "weekly_stars": null,
         "pushed_at": "2026-07-11T02:07:50Z"
       }
     },
@@ -2844,7 +2845,7 @@
         "status": "recommended",
         "last_checked": "2026-06-19",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -2854,7 +2855,8 @@
       "featured_order": 2,
       "github": {
         "full_name": "Hiram-Wong/zyfun",
-        "stars": 8643,
+        "stars": 8667,
+        "weekly_stars": null,
         "pushed_at": "2026-06-25T14:11:54Z"
       }
     },
@@ -2894,7 +2896,7 @@
         "status": "recommended",
         "last_checked": "2026-06-19",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -2904,8 +2906,9 @@
       "featured_order": 3,
       "github": {
         "full_name": "Guovin/iptv-api",
-        "stars": 24591,
-        "pushed_at": "2026-07-10T09:56:43Z"
+        "stars": 24636,
+        "weekly_stars": null,
+        "pushed_at": "2026-07-16T09:14:10Z"
       }
     },
     {
@@ -2944,7 +2947,7 @@
         "status": "recommended",
         "last_checked": "2026-06-19",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -2954,8 +2957,9 @@
       "featured_order": 4,
       "github": {
         "full_name": "iptv-org/iptv",
-        "stars": 132645,
-        "pushed_at": "2026-07-13T01:29:27Z"
+        "stars": 133161,
+        "weekly_stars": null,
+        "pushed_at": "2026-07-17T13:32:30Z"
       }
     },
     {
@@ -2994,7 +2998,7 @@
         "status": "recommended",
         "last_checked": "2026-06-19",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -3004,7 +3008,8 @@
       "featured_order": 5,
       "github": {
         "full_name": "fish2018/pansou",
-        "stars": 13834,
+        "stars": 13889,
+        "weekly_stars": null,
         "pushed_at": "2026-06-14T14:06:26Z"
       }
     },
@@ -3044,7 +3049,7 @@
         "status": "recommended",
         "last_checked": "2026-06-19",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -3054,7 +3059,8 @@
       "featured_order": 6,
       "github": {
         "full_name": "jiangrui1994/CloudSaver",
-        "stars": 9062,
+        "stars": 9077,
+        "weekly_stars": null,
         "pushed_at": "2026-04-20T03:28:29Z"
       }
     },
@@ -3094,7 +3100,7 @@
         "status": "recommended",
         "last_checked": "2026-06-19",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -3104,7 +3110,8 @@
       "featured_order": 7,
       "github": {
         "full_name": "Cp0204/quark-auto-save",
-        "stars": 2920,
+        "stars": 2929,
+        "weekly_stars": null,
         "pushed_at": "2026-07-09T11:44:49Z"
       }
     },
@@ -3144,7 +3151,7 @@
         "status": "recommended",
         "last_checked": "2026-07-10",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -3154,8 +3161,9 @@
       "featured_order": 8,
       "github": {
         "full_name": "open-ani/animeko",
-        "stars": 18840,
-        "pushed_at": "2026-07-13T01:31:37Z"
+        "stars": 18923,
+        "weekly_stars": null,
+        "pushed_at": "2026-07-17T13:00:15Z"
       }
     },
     {
@@ -3195,7 +3203,7 @@
         "status": "recommended",
         "last_checked": "2026-07-11",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -3205,8 +3213,9 @@
       "featured_order": 9,
       "github": {
         "full_name": "Predidit/Kazumi",
-        "stars": 27586,
-        "pushed_at": "2026-07-13T02:08:22Z"
+        "stars": 27766,
+        "weekly_stars": null,
+        "pushed_at": "2026-07-17T15:01:00Z"
       }
     },
     {
@@ -3246,7 +3255,7 @@
         "status": "recommended",
         "last_checked": "2026-07-12",
         "method": "manual",
-        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -3256,7 +3265,8 @@
       "featured_order": 10,
       "github": {
         "full_name": "MoonTechLab/Selene",
-        "stars": 2346,
+        "stars": 2357,
+        "weekly_stars": null,
         "pushed_at": "2026-05-25T10:26:26Z"
       }
     },

@@ -176,9 +176,23 @@ function sortTvboxConfigResources(resources) {
   });
 }
 
+function sortOpenSourceResources(resources) {
+  return [...resources].sort((left, right) => {
+    return (
+      (right.github?.stars ?? 0) - (left.github?.stars ?? 0) ||
+      Date.parse(right.github?.pushed_at ?? "") - Date.parse(left.github?.pushed_at ?? "") ||
+      left.name.localeCompare(right.name)
+    );
+  });
+}
+
 function sortFeaturedResources(resources, categoryId) {
   if (categoryId === "tvbox_config") {
     return sortTvboxConfigResources(resources);
+  }
+
+  if (categoryId === "open_source") {
+    return sortOpenSourceResources(resources);
   }
 
   return [...resources].sort((left, right) => {
@@ -262,12 +276,15 @@ function openSourceTableFor(resources) {
   const starFormatter = new Intl.NumberFormat("en-US");
   const rows = resources
     .map((resource) => {
-      return `| ${markdownLink(resource.name, resource.url)} | ${markdownCell(shortSummary(resource))} | ${markdownCell(starFormatter.format(resource.github.stars))} | ${markdownCell(plainDateInTimeZone(resource.github.pushed_at))} |`;
+      const weeklyStars = Number.isInteger(resource.github.weekly_stars)
+        ? `+${starFormatter.format(resource.github.weekly_stars)}`
+        : "待更新";
+      return `| ${markdownLink(resource.name, resource.url)} | ${markdownCell(shortSummary(resource))} | ${markdownCell(starFormatter.format(resource.github.stars))} | ${markdownCell(weeklyStars)} | ${markdownCell(plainDateInTimeZone(resource.github.pushed_at))} |`;
     })
     .join("\n");
 
-  return `| 资源 | 简介 | star数 | 最近更新 |
-| --- | --- | :---: | :---: |
+  return `| 资源 | 简介 | star数 | 最近一周 Star | 仓库更新时间 |
+| --- | --- | :---: | :---: | :---: |
 ${rows}`;
 }
 

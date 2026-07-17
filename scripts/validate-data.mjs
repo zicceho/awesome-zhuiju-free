@@ -107,6 +107,7 @@ for (const [index, resource] of (resourcesData?.resources ?? []).entries()) {
   if (resource.category === "open_source") {
     check(typeof resource.github?.full_name === "string" && resource.github.full_name.includes("/"), `${path}.github.full_name: required for open source resources`);
     check(Number.isInteger(resource.github?.stars) && resource.github.stars >= 0, `${path}.github.stars: expected a non-negative integer`);
+    check(resource.github?.weekly_stars === null || (Number.isInteger(resource.github?.weekly_stars) && resource.github.weekly_stars >= 0), `${path}.github.weekly_stars: expected null or a non-negative integer`);
     check(
       typeof resource.github?.pushed_at === "string" && !Number.isNaN(Date.parse(resource.github.pushed_at)),
       `${path}.github.pushed_at: expected ISO timestamp`
