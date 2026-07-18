@@ -21,7 +21,7 @@ const categories = [
   { id: "subtitles", name: "字幕资源", badge: "字幕资源", color: "6F42C1" },
   { id: "player", name: "TVBox/影视仓空壳", badge: "TVBox%2F影视仓空壳", color: "00B4D8" },
   { id: "tvbox_config", name: "TVBox/影视仓配置地址", badge: "TVBox%2F影视仓接口", color: "38BDF8" },
-  { id: "subscription", name: "订阅源", badge: "订阅源", color: "E91E63" },
+  { id: "subscription", name: "直播源", badge: "直播源", color: "E91E63" },
   { id: "membership", name: "会员拼团", badge: "会员拼团", color: "F97316" },
   { id: "open_source", name: "开源项目", badge: "开源项目", color: "181717" }
 ];

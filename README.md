@@ -64,7 +64,7 @@
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-6F42C1?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-2-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-15-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
-  <a href="#订阅源"><img src="https://img.shields.io/badge/订阅源-1-E91E63?style=flat-square" alt="订阅源"></a>
+  <a href="#直播源"><img src="https://img.shields.io/badge/直播源-1-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
   <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-10-181717?style=flat-square" alt="开源项目"></a>
 </p>
@@ -225,7 +225,7 @@
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
-### 订阅源
+### 直播源
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
@@ -293,7 +293,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 | 找网盘分享 | [网盘资源搜索](#网盘资源搜索) | 保存到网盘或找合集，注意有效期和诱导下载 |
 | 找磁力入口 | [磁力& BT](#磁力-bt) | 查找磁力、BT 或相关资源站，注意版权、链接和隐私 |
 | 找字幕 | [字幕资源](#字幕资源) | 外语片、冷门片版本匹配，注意字幕来源和下载安全 |
-| 电视端播放 | [TVBox/影视仓空壳](#tvbox影视仓空壳)、[订阅源](#订阅源) | 电视盒子、NAS、客厅播放，注意插件和订阅源可信度 |
+| 电视端播放 | [TVBox/影视仓空壳](#tvbox影视仓空壳)、[直播源](#直播源) | 电视盒子、NAS、客厅播放，注意插件和直播源可信度 |
 | 配置影视仓 | [TVBox/影视仓配置地址](#tvbox影视仓配置地址) | 影视仓、TVBox 快速导入配置，注意来源、稳定性和安全 |
 | 省会员费用 | [会员拼团](#会员拼团) | 正规会员合租或优惠信息，注意支付规则、账号归属和售后 |
 | 找开源工具 | [开源项目](#开源项目) | 自建、部署或二次开发影视工具，注意活跃度和维护门槛 |
