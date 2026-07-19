@@ -408,7 +408,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&theme=dark&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
-   <img alt="星空历史图表" src="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
  </picture>
 </a>
 
